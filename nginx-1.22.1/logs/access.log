@@ -5,3 +5,7 @@
 127.0.0.1 - - [03/Apr/2023:19:54:58 +0900] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
 127.0.0.1 - - [03/Apr/2023:19:54:58 +0900] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
 127.0.0.1 - - [03/Apr/2023:19:54:58 +0900] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+127.0.0.1 - - [03/Apr/2023:19:59:05 +0900] "GET / HTTP/1.1" 200 423 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+127.0.0.1 - - [03/Apr/2023:19:59:05 +0900] "GET /assets/index-a911f458.js HTTP/1.1" 200 62952 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+127.0.0.1 - - [03/Apr/2023:19:59:06 +0900] "GET /assets/index-1da8cd0c.css HTTP/1.1" 200 3676 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+127.0.0.1 - - [03/Apr/2023:19:59:06 +0900] "GET /assets/logo-277e0e97.svg HTTP/1.1" 200 276 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
