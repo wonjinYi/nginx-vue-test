@@ -1,0 +1,2 @@
+2023/04/03 19:03:22 [error] 2236#3420: *1 CreateFile() "C:\Users\goran\Desktop\nginx-vue-test\nginx-1.22.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/04/03 19:57:30 [emerg] 17276#19228: invalid number of arguments in "root" directive in C:\Users\goran\Desktop\nginx-vue-test\nginx-1.22.1/conf/nginx.conf:46
